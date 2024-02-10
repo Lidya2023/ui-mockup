@@ -1,5 +1,9 @@
-Explanation for Mockup Implementation in React
+**For running the application**
+npm install
+npm run dev
 
+
+**Explanation for Mockup Implementation in React**
 1. I used Vite + JavaScript + TailwindCSS to implement the mockup in React.
 2. I found the font “Cyntho Next” by searching for the font on myfonts.com using the mockup image
 3. I found the colors by using the color picker function in the chrome extension Color Zilla
