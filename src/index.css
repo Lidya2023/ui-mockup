@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Cyntho Next', sans-serif;
+}
+
+.logo {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-y: center;
+}
+
+.new-file-logo {
+  background-image: url("/new-file.svg");
+}
+
+.cross-logo {
+  background-image: url("/cross.svg");
+}
